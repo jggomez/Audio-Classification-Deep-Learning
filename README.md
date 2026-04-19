@@ -1,5 +1,8 @@
 # Audio Classification for Deaf Individuals
 
+## Notebook
+[Notebook](https://colab.research.google.com/drive/1EiUf__69bQ2rj9xtDCigqTq8ajzBcggO?usp=sharing)
+
 ## Description
 This repository contains the code and resources for an audio classification project aimed at assisting deaf individuals. The primary goal is to develop a robust model that can classify common household sounds such as a 'door knock', 'running water', 'chair dragging', and 'human voice'. By classifying these sounds, the model can provide critical information to a deaf person about potential situations occurring in their environment, thereby enhancing their situational awareness and safety.
 
